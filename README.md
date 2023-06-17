@@ -1,0 +1,3 @@
+- Hello i am dayzs. 
+- I am a coding student.
+- I am not good at coding but i wanna learn more about it.
